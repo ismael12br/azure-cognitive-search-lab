@@ -27,3 +27,16 @@ Este projeto foi desenvolvido como parte do desafio prático da DIO, com o objet
 
 ---
 
+Projeto desenvolvido como parte do bootcamp Cloud com IA – DIO e XP Investimentos.
+
+---
+
+Este projeto permitiu colocar em prática os conceitos de nuvem e IA aprendidos em curso/bootcamp. Foram utilizados serviços reais de computação em nuvem e aplicações de linguagem natural para simular cenários profissionais.
+
+---
+
+## 🚀 Autor
+
+- **Ismael Lopes**  
+- GitHub: [@ismael12br](https://github.com/ismael12br)  
+- LinkedIn: [linkedin.com/in/ismael-lopes](https://linkedin.com/in/ismael-lopes)
