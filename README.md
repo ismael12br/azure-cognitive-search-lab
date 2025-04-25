@@ -18,8 +18,47 @@ Este projeto foi desenvolvido como parte do desafio prático da DIO, com o objet
 ## 📈 Resultados Alcançados
 - (Resumo dos resultados das consultas)
 
-## 🧩 Como Executar o Projeto
-- (Mini tutorial)
+## 🚀 Como o projeto foi executado
+
+A seguir está o passo a passo completo para execução do projeto no Azure:
+
+### 1. Criação do Azure AI Search
+
+Foi criado o serviço **Azure AI Search**, essencial para realizar buscas inteligentes e aplicar análise de sentimentos sobre os dados.  
+📷 ![Criação do Azure AI Search](images/1-criacao-projeto.png)
+
+### 2. Criação do Azure AI Services
+
+Este recurso permite acesso aos modelos de linguagem e serviços de inteligência artificial da Microsoft.  
+📷 ![Configuração do Azure AI Services](images/2-configuracao-projeto.png)
+
+### 3. Criação de uma Conta de Armazenamento (Blob Storage)
+
+- Criada uma conta de armazenamento.  
+- Permissão de **acesso anônimo ao Blob** foi habilitada.  
+- Criado um contêiner público.  
+- Os comentários foram enviados para esse contêiner.  
+📷 ![Upload dos comentários no Blob](images/3-insercao-comentarios.png)
+
+### 4. Importação dos dados para o Azure AI Search
+
+A partir do Blob Storage, os dados foram importados para o Azure AI Search, utilizando a opção de enriquecimento de dados (cognitive skills).  
+📷 ![Execução da análise no AI Search](images/4-execucao-analise.png)
+
+### 5. Exploração e Validação dos Resultados
+
+Utilizamos o portal do Azure para:
+- Explorar os dados indexados.  
+- Verificar se a **cadeia de consulta** está ativa.  
+📷 ![Resultados iniciais da análise](images/5-resultados-analise.png)  
+- Realizar filtros por localizações e sentimentos.  
+📷 ![Detalhes filtrados dos resultados](images/6-detalhes-resultados.png)
+
+---
+
+Sinta-se à vontade para clonar este repositório, sugerir melhorias ou utilizá-lo como base para seus próprios experimentos!
+
+---
 
 ## 📖 Referências
 - [Documentação Oficial do Azure Cognitive Search](https://learn.microsoft.com/pt-br/azure/search/search-what-is-azure-search)
