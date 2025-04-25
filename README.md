@@ -1,24 +1,28 @@
 # Azure Cognitive Search: Indexação e Consulta de Dados com IA
 
-## 📚 Descrição
+## 📝 Descrição
 Este projeto foi desenvolvido como parte do desafio prático da DIO, com o objetivo de aplicar técnicas de organização, ingestão de dados e indexação utilizando inteligência artificial através do Azure Cognitive Search.
 
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 - Azure Cognitive Search
 - GitHub
 - Markdown
 
-## 🛠️ Etapas Realizadas
+## 🔄 Etapas Realizadas
 1. Ingestão de dados
 2. Criação do índice de pesquisa
 3. Exploração e consulta dos dados
 
 *(Screenshots ilustrando as etapas serão adicionadas na pasta `/images`.)*
 
-## 📈 Resultados Alcançados
-- (Resumo dos resultados das consultas)
+## ✅ Resultados Alcançados
+- **Indexação Eficiente**: Os comentários foram indexados com sucesso, permitindo buscas rápidas e precisas.
+- **Análise de Sentimentos**: A aplicação de técnicas de NLP possibilitou a classificação dos comentários em positivos, negativos e neutros, oferecendo insights valiosos sobre as opiniões dos usuários.
+- **Visualização Interativa**: A integração com o Azure AI Search proporcionou uma interface intuitiva para explorar os dados e os resultados das análises.
+- **Aprendizado Prático**: A execução deste projeto consolidou conhecimentos em serviços de IA da Azure, manipulação de dados e desenvolvimento de soluções baseadas em nuvem.
+- **Outras observações**: Tal seriço de IA também permite que outras pesquisas possam ser feitas diretamente no Search Explorer utilizando a automação, como a busca por locais, palabras-chave, nomes etc. Vale destacar que isto também pode ser usado dentro de uma aplicação, tornando a utilização mais fácil e intuitiva.
 
-## 🚀 Como o projeto foi executado
+## 🚀 Como o Projeto Foi Executado​
 
 A seguir está o passo a passo completo para execução do projeto no Azure:
 
