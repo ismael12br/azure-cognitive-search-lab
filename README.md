@@ -16,10 +16,10 @@ Este projeto foi desenvolvido como parte do desafio prático da DIO, com o objet
 *(Screenshots ilustrando as etapas serão adicionadas na pasta `/images`.)*
 
 ## 📈 Resultados Alcançados
-- (Aqui vamos colocar depois o resumo dos resultados das consultas.)
+- (Resumo dos resultados das consultas)
 
 ## 🧩 Como Executar o Projeto
-- (Se quiser, depois colocamos um mini tutorial para alguém reproduzir.)
+- (Mini tutorial)
 
 ## 📖 Referências
 - [Documentação Oficial do Azure Cognitive Search](https://learn.microsoft.com/pt-br/azure/search/search-what-is-azure-search)
